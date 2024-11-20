@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gmail_auth.h": "c",
+        "gmail_utils.h": "c",
+        "gmail_messages.h": "c",
+        "gmail_client.h": "c"
+    }
+}

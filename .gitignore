@@ -1,0 +1,5 @@
+# Ignore compiled files
+*.o
+.env
+build/
+token.json
