@@ -17,7 +17,6 @@ This C library provides a simple interface for interacting with the Gmail API us
 3. [Examples](#examples)
 4. [Usage](#usage)
 5. [Cleaning Up](#cleaning-up)
-6. [Contributing](#contributing)
 
 ## Installation
 
